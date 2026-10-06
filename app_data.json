@@ -1,153 +1,1252 @@
 {
     "wallpapers": [
-        "W1.jpg",
-        "W2.jpg",
-        "W3.jpg",
-        "W4.png",
-        "W5.jpg",
-        "W6.jpg",
-        "W7.png",
-        "W8.jpg",
-        "W9.jpg",
-        "W10.png",
-        "W11.jpg",
-        "W12.jpg",
-        "W13.png",
-        "W14.jpg",
-        "W15.jpg",
-        "W16.jpg",
-        "W17.jpg",
-        "W18.jpg",
-        "W19.jpg"
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W1.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W2.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W3.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W4.png",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W5.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W6.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W7.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W8.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W9.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W10.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W11.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W12.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W13.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W14.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W15.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W16.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W17.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W18.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W19.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W20.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W21.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W22.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W23.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W24.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W25.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W26.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W27.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W28.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W29.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W30.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W31.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W32.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W33.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W34.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W35.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W36.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W37.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W38.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W39.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W40.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W41.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W42.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W43.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W44.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W45.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W46.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W47.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W48.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W49.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W50.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W51.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W52.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W53.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W54.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W55.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W56.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W57.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W58.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W59.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W60.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W61.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W62.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W63.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W64.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W65.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W66.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W67.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W68.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W69.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W70.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W71.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W72.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W73.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W74.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W75.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W76.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W77.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W78.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W79.png",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W80.png",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W81.png",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W82.png",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W83.png",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W84.png",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W85.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W86.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W87.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W1.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W2.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W3.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W4.png",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W5.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W6.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W7.png",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W8.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W9.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W10.png",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W11.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W12.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W13.png",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W14.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W15.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W16.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W17.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W18.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W19.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/1.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/10.png",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/11.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/12.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/13.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/14.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/15.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/16.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/17.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/18.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/19.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/2.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/20.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/21.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/22.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/23.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/24.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/25.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/26.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/27.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/28.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/29.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/3.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/30.png",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/31.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/32.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/33.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/34.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/35.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/36.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/37.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/38.png",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/39.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/4.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/40.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/41.png",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/42.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/43.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/44.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/45.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/46.png",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/47.png",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/48.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/49.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/5.png",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/50.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/51.png",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/52.png",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/53.png",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/54.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/55.png",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/56.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/57.png",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/58.png",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/59.png",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/6.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/60.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/61.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/62.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/7.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/8.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/9.png",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/1.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/10.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/11.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/12.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/13.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/14.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/15.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/16.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/17.png",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/18.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/19.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/2.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/20.png",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/21.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/22.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/23.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/24.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/25.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/26.png",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/27.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/28.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/29.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/3.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/30.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/31.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/32.png",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/33.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/34.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/35.png",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/36.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/37.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/38.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/39.png",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/4.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/40.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/41.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/42.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/43.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/44.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/45.png",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/46.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/47.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/48.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/49.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/5.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/50.png",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/51.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/52.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/53.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/54.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/55.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/56.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/57.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/58.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/59.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/6.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/60.png",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/61.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/7.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/8.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/9.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/1.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/10.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/11.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/12.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/13.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/14.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/15.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/16.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/17.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/18.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/19.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/2.png",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/20.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/21.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/22.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/23.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/24.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/25.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/26.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/27.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/28.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/29.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/3.png",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/30.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/31.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/32.png",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/33.png",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/34.png",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/35.png",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/36.png",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/37.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/38.png",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/39.png",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/4.png",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/40.png",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/41.png",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/42.png",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/43.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/44.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/45.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/46.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/47.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/48.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/49.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/5.png",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/50.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/51.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/6.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/7.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/8.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/9.jpg"
     ],
     "live_wallpapers": [
         {
-            "video": "L1.mp4",
-            "thumbnail": "L1.png"
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L1.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L1.png",
+            "category": "halloween"
         },
         {
-            "video": "L2.mp4",
-            "thumbnail": "L2.png"
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L2.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L2.png",
+            "category": "halloween"
         },
         {
-            "video": "L3.mp4",
-            "thumbnail": "L3.png"
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L3.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L3.png",
+            "category": "halloween"
         },
         {
-            "video": "L4.mp4",
-            "thumbnail": "L4.png"
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L4.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L4.png",
+            "category": "halloween"
         },
         {
-            "video": "L5.mp4",
-            "thumbnail": "L5.png"
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L5.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L5.png",
+            "category": "halloween"
         },
         {
-            "video": "L6.mp4",
-            "thumbnail": "L6.png"
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L6.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L6.png",
+            "category": "halloween"
         },
         {
-            "video": "L7.mp4",
-            "thumbnail": "L7.png"
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L7.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L7.png",
+            "category": "halloween"
         },
         {
-            "video": "L8.mp4",
-            "thumbnail": "L8.png"
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L8.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L8.png",
+            "category": "halloween"
         },
         {
-            "video": "L9.mp4",
-            "thumbnail": "L9.png"
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L9.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L9.png",
+            "category": "halloween"
         },
         {
-            "video": "L10.mp4",
-            "thumbnail": "L10.png"
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L10.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L10.png",
+            "category": "halloween"
         },
         {
-            "video": "L11.mp4",
-            "thumbnail": "L11.png"
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L11.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L11.png",
+            "category": "halloween"
         },
         {
-            "video": "L12.mp4",
-            "thumbnail": "L12.png"
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L12.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L12.png",
+            "category": "halloween"
         },
         {
-            "video": "L13.mp4",
-            "thumbnail": "L13.png"
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/1.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/1.png",
+            "category": "kuromi"
         },
         {
-            "video": "L14.mp4",
-            "thumbnail": "L14.png"
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/10.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/10.png",
+            "category": "kuromi"
         },
         {
-            "video": "L15.mp4",
-            "thumbnail": "L15.png"
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/11.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/11.png",
+            "category": "kuromi"
         },
         {
-            "video": "L16.mp4",
-            "thumbnail": "L16.png"
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/12.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/12.png",
+            "category": "kuromi"
         },
         {
-            "video": "L17.mp4",
-            "thumbnail": "L17.png"
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/13.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/13.png",
+            "category": "kuromi"
         },
         {
-            "video": "L18.mp4",
-            "thumbnail": "L18.png"
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/14.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/14.png",
+            "category": "kuromi"
         },
         {
-            "video": "L19.mp4",
-            "thumbnail": "L19.png"
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/15.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/15.png",
+            "category": "kuromi"
         },
         {
-            "video": "L20.mp4",
-            "thumbnail": "L20.png"
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/16.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/16.png",
+            "category": "kuromi"
         },
         {
-            "video": "L21.mp4",
-            "thumbnail": "L21.png"
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/17.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/17.png",
+            "category": "kuromi"
         },
         {
-            "video": "L22.mp4",
-            "thumbnail": "L22.png"
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/18.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/18.png",
+            "category": "kuromi"
         },
         {
-            "video": "L23.mp4",
-            "thumbnail": "L23.png"
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/19.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/19.png",
+            "category": "kuromi"
         },
         {
-            "video": "L24.mp4",
-            "thumbnail": "L24.png"
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/2.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/2.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/20.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/20.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/21.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/21.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/22.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/22.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/23.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/23.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/24.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/24.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/25.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/25.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/26.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/26.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/27.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/27.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/28.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/28.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/29.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/29.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/3.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/3.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/30.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/30.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/31.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/31.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/32.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/32.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/33.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/33.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/34.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/34.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/35.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/35.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/36.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/36.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/37.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/37.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/38.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/38.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/39.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/39.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/4.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/4.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/40.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/40.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/41.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/41.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/42.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/42.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/43.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/43.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/5.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/5.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/6.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/6.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/7.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/7.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/8.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/8.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/9.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/9.png",
+            "category": "kuromi"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/1.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/1.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/10.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/10.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/11.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/11.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/12.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/12.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/13.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/13.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/14.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/14.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/15.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/15.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/16.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/16.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/17.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/17.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/18.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/18.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/19.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/19.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/2.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/2.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/20.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/20.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/21.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/21.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/22.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/22.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/23.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/23.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/24.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/24.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/25.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/25.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/26.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/26.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/27.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/27.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/28.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/28.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/29.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/29.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/3.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/3.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/30.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/30.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/31.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/31.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/32.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/32.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/33.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/33.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/34.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/34.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/35.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/35.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/36.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/36.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/37.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/37.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/38.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/38.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/39.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/39.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/4.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/4.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/40.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/40.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/41.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/41.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/42.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/42.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/43.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/43.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/5.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/5.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/6.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/6.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/7.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/7.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/8.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/8.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/9.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/9.png",
+            "category": "hello_kitty"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/10.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/10.png",
+            "category": "blue_koala"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/11.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/11.png",
+            "category": "blue_koala"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/2.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/2.png",
+            "category": "blue_koala"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/3.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/3.png",
+            "category": "blue_koala"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/4.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/4.png",
+            "category": "blue_koala"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/5.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/5.png",
+            "category": "blue_koala"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/6.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/6.png",
+            "category": "blue_koala"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/7.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/7.png",
+            "category": "blue_koala"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/8.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/8.png",
+            "category": "blue_koala"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/9.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/9.png",
+            "category": "blue_koala"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L1.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L1.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L2.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L2.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L3.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L3.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L4.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L4.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L5.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L5.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L6.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L6.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L7.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L7.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L8.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L8.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L9.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L9.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L10.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L10.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L11.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L11.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L12.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L12.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L13.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L13.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L14.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L14.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L15.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L15.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L16.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L16.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L17.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L17.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L18.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L18.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L19.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L19.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L20.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L20.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L21.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L21.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L22.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L22.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L23.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L23.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L24.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L24.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L25.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L25.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L26.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L26.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L27.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L27.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L28.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L28.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L29.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L29.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L30.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L30.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L31.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L31.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L32.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L32.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L33.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L33.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L34.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L34.png",
+            "category": "toca_boca"
+        },
+        {
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L35.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L35.png",
+            "category": "toca_boca"
         }
     ],
     "keyboards": [
-        "K1.jpg",
-        "K2.jpg",
-        "K3.jpg",
-        "K4.jpg",
-        "K5.jpg",
-        "K6.jpg",
-        "K7.jpg",
-        "K8.jpg",
-        "K9.jpg",
-        "K10.jpg",
-        "K11.jpg",
-        "K12.jpg",
-        "K13.jpg",
-        "K14.jpg",
-        "K15.jpg",
-        "K16.jpg",
-        "K17.jpg",
-        "K18.jpg",
-        "K19.gif",
-        "K20.jpg",
-        "K21.jpg"
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/1.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/2.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/3.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/4.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/5.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/6.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/7.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/8.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/9.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/10.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/11.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/12.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/13.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/14.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/15.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/16.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/17.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/18.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/19.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/20.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/21.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/22.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K1.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K2.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K3.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K4.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K5.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K6.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K7.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K8.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K9.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K10.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K11.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K12.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K13.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K14.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K15.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K16.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K17.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K18.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K19.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K20.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K21.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K22.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K23.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K24.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K25.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K26.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K27.jpg",
+        "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K28.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/1.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/2.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/3.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/4.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/5.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/6.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/7.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/8.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/9.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/10.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/11.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/12.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/13.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/14.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/15.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/16.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/17.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/18.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/19.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/20.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/21.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/22.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/1.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/2.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/3.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/4.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/5.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/6.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/7.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/8.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/9.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/10.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/11.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/12.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/13.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/14.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/15.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/16.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/17.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/18.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/19.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/20.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/21.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/22.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/23.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/24.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/25.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/26.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/27.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/28.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/29.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/30.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K1.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K2.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K3.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K4.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K5.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K6.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K7.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K8.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K9.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K10.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K11.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K12.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K13.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K14.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K15.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K16.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K17.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K18.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K19.gif",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K20.jpg",
+        "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K21.jpg"
     ],
     "zipper": [],
     "house_ideas": [
         {
             "id": "house_h1",
+            "title": "Halloween House Idea #1",
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H1.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H1.png",
+            "roomType": "Halloween Villa",
+            "duration": "0:08",
+            "description": "Spooky aesthetic room decor layout & furniture styling for Halloween House Idea #1."
+        },
+        {
+            "id": "house_h2",
+            "title": "Halloween House Idea #2",
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H2.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H2.png",
+            "roomType": "Halloween Villa",
+            "duration": "0:08",
+            "description": "Spooky aesthetic room decor layout & furniture styling for Halloween House Idea #2."
+        },
+        {
+            "id": "house_h3",
+            "title": "Halloween House Idea #3",
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H3.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H3.png",
+            "roomType": "Halloween Villa",
+            "duration": "0:08",
+            "description": "Spooky aesthetic room decor layout & furniture styling for Halloween House Idea #3."
+        },
+        {
+            "id": "house_h4",
+            "title": "Halloween House Idea #4",
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H4.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H4.png",
+            "roomType": "Halloween Villa",
+            "duration": "0:08",
+            "description": "Spooky aesthetic room decor layout & furniture styling for Halloween House Idea #4."
+        },
+        {
+            "id": "house_h5",
+            "title": "Halloween House Idea #5",
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H5.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H5.png",
+            "roomType": "Halloween Villa",
+            "duration": "0:08",
+            "description": "Spooky aesthetic room decor layout & furniture styling for Halloween House Idea #5."
+        },
+        {
+            "id": "house_h6",
+            "title": "Halloween House Idea #6",
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H6.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H6.png",
+            "roomType": "Halloween Villa",
+            "duration": "0:08",
+            "description": "Spooky aesthetic room decor layout & furniture styling for Halloween House Idea #6."
+        },
+        {
+            "id": "house_h7",
+            "title": "Halloween House Idea #7",
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H7.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H7.png",
+            "roomType": "Halloween Villa",
+            "duration": "0:08",
+            "description": "Spooky aesthetic room decor layout & furniture styling for Halloween House Idea #7."
+        },
+        {
+            "id": "house_h8",
+            "title": "Halloween House Idea #8",
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H8.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H8.png",
+            "roomType": "Halloween Villa",
+            "duration": "0:08",
+            "description": "Spooky aesthetic room decor layout & furniture styling for Halloween House Idea #8."
+        },
+        {
+            "id": "house_h9",
+            "title": "Halloween House Idea #9",
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H9.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H9.png",
+            "roomType": "Halloween Villa",
+            "duration": "0:08",
+            "description": "Spooky aesthetic room decor layout & furniture styling for Halloween House Idea #9."
+        },
+        {
+            "id": "house_h10",
+            "title": "Halloween House Idea #10",
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H10.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H10.png",
+            "roomType": "Halloween Villa",
+            "duration": "0:08",
+            "description": "Spooky aesthetic room decor layout & furniture styling for Halloween House Idea #10."
+        },
+        {
+            "id": "house_h11",
+            "title": "Halloween House Idea #11",
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H11.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H11.png",
+            "roomType": "Halloween Villa",
+            "duration": "0:08",
+            "description": "Spooky aesthetic room decor layout & furniture styling for Halloween House Idea #11."
+        },
+        {
+            "id": "house_h12",
+            "title": "Halloween House Idea #12",
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H12.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H12.png",
+            "roomType": "Halloween Villa",
+            "duration": "0:08",
+            "description": "Spooky aesthetic room decor layout & furniture styling for Halloween House Idea #12."
+        },
+        {
+            "id": "house_h13",
+            "title": "Halloween House Idea #13",
+            "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H13.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/H13.png",
+            "roomType": "Halloween Villa",
+            "duration": "0:08",
+            "description": "Spooky aesthetic room decor layout & furniture styling for Halloween House Idea #13."
+        },
+        {
+            "id": "house_h1",
             "title": "Toca House Idea #1",
-            "video": "H1.mp4",
-            "thumbnail": "H1.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H1.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H1.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #1."
@@ -155,8 +1254,8 @@
         {
             "id": "house_h2",
             "title": "Toca House Idea #2",
-            "video": "H2.mp4",
-            "thumbnail": "H2.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H2.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H2.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #2."
@@ -164,8 +1263,8 @@
         {
             "id": "house_h3",
             "title": "Toca House Idea #3",
-            "video": "H3.mp4",
-            "thumbnail": "H3.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H3.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H3.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #3."
@@ -173,8 +1272,8 @@
         {
             "id": "house_h4",
             "title": "Toca House Idea #4",
-            "video": "H4.mp4",
-            "thumbnail": "H4.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H4.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H4.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #4."
@@ -182,8 +1281,8 @@
         {
             "id": "house_h5",
             "title": "Toca House Idea #5",
-            "video": "H5.mp4",
-            "thumbnail": "H5.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H5.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H5.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #5."
@@ -191,8 +1290,8 @@
         {
             "id": "house_h6",
             "title": "Toca House Idea #6",
-            "video": "H6.mp4",
-            "thumbnail": "H6.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H6.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H6.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #6."
@@ -200,8 +1299,8 @@
         {
             "id": "house_h7",
             "title": "Toca House Idea #7",
-            "video": "H7.mp4",
-            "thumbnail": "H7.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H7.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H7.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #7."
@@ -209,8 +1308,8 @@
         {
             "id": "house_h8",
             "title": "Toca House Idea #8",
-            "video": "H8.mp4",
-            "thumbnail": "H8.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H8.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H8.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #8."
@@ -218,8 +1317,8 @@
         {
             "id": "house_h9",
             "title": "Toca House Idea #9",
-            "video": "H9.mp4",
-            "thumbnail": "H9.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H9.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H9.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #9."
@@ -227,8 +1326,8 @@
         {
             "id": "house_h10",
             "title": "Toca House Idea #10",
-            "video": "H10.mp4",
-            "thumbnail": "H10.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H10.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H10.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #10."
@@ -236,8 +1335,8 @@
         {
             "id": "house_h11",
             "title": "Toca House Idea #11",
-            "video": "H11.mp4",
-            "thumbnail": "H11.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H11.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H11.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #11."
@@ -245,8 +1344,8 @@
         {
             "id": "house_h12",
             "title": "Toca House Idea #12",
-            "video": "H12.mp4",
-            "thumbnail": "H12.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H12.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H12.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #12."
@@ -254,8 +1353,8 @@
         {
             "id": "house_h13",
             "title": "Toca House Idea #13",
-            "video": "H13.mp4",
-            "thumbnail": "H13.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H13.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H13.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #13."
@@ -263,8 +1362,8 @@
         {
             "id": "house_h14",
             "title": "Toca House Idea #14",
-            "video": "H14.mp4",
-            "thumbnail": "H14.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H14.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H14.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #14."
@@ -272,8 +1371,8 @@
         {
             "id": "house_h15",
             "title": "Toca House Idea #15",
-            "video": "H15.mp4",
-            "thumbnail": "H15.png",
+            "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H15.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H15.png",
             "roomType": "Aesthetic Villa",
             "duration": "0:08",
             "description": "Creative room decor layout for Toca House Idea #15."
@@ -281,25 +1380,1221 @@
     ],
     "widgets": {
         "calendar": [
-            "W1.jpg",
-            "W2.jpg",
-            "W3.jpg",
-            "W4.png",
-            "W5.jpg"
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W1.jpg",
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W2.jpg",
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W3.jpg",
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W4.png",
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W5.jpg"
         ],
         "clock": [
-            "W6.jpg",
-            "W7.png",
-            "W8.jpg",
-            "W9.jpg",
-            "W10.png"
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W6.jpg",
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W7.jpg",
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W8.jpg",
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W9.jpg",
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W10.jpg"
         ],
         "digital_clock": [
-            "W11.jpg",
-            "W12.jpg",
-            "W13.png",
-            "W14.jpg",
-            "W15.jpg"
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W11.jpg",
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W12.jpg",
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W13.jpg",
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W14.jpg",
+            "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W15.jpg"
         ]
-    }
+    },
+    "categories": [
+        {
+            "id": "kuromi",
+            "title": "Kuromi Aesthetic",
+            "icon": "💜",
+            "badge": "HOT 🔥",
+            "description": "Dark kawaii, purple punk vibes & gothic cute aesthetics",
+            "colorHex": "0xFFA55EEA",
+            "coverUrl": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/1.jpg",
+            "wallpapers": [
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/1.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/10.png",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/11.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/12.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/13.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/14.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/15.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/16.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/17.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/18.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/19.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/2.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/20.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/21.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/22.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/23.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/24.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/25.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/26.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/27.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/28.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/29.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/3.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/30.png",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/31.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/32.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/33.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/34.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/35.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/36.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/37.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/38.png",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/39.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/4.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/40.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/41.png",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/42.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/43.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/44.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/45.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/46.png",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/47.png",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/48.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/49.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/5.png",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/50.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/51.png",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/52.png",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/53.png",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/54.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/55.png",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/56.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/57.png",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/58.png",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/59.png",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/6.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/60.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/61.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/62.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/7.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/8.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/kuromi/9.png"
+            ],
+            "live_wallpapers": [
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/1.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/1.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/10.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/10.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/11.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/11.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/12.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/12.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/13.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/13.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/14.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/14.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/15.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/15.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/16.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/16.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/17.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/17.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/18.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/18.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/19.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/19.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/2.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/2.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/20.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/20.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/21.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/21.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/22.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/22.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/23.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/23.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/24.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/24.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/25.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/25.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/26.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/26.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/27.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/27.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/28.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/28.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/29.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/29.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/3.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/3.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/30.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/30.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/31.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/31.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/32.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/32.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/33.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/33.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/34.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/34.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/35.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/35.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/36.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/36.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/37.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/37.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/38.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/38.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/39.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/39.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/4.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/4.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/40.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/40.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/41.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/41.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/42.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/42.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/43.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/43.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/5.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/5.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/6.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/6.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/7.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/7.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/8.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/8.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/9.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/live_wallpapers/9.png"
+                }
+            ],
+            "keyboards": [
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/1.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/2.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/3.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/4.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/5.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/6.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/7.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/8.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/9.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/10.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/11.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/12.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/13.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/14.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/15.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/16.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/17.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/18.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/19.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/20.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/21.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/main/keyboards/22.jpg"
+            ]
+        },
+        {
+            "id": "halloween",
+            "title": "Halloween Spooky",
+            "icon": "🎃",
+            "badge": "SPOOKY 🦇",
+            "description": "Spooky aesthetic, dark Halloween rooms, haunted villa decor & pumpkins",
+            "colorHex": "0xFFFF6F00",
+            "coverUrl": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W1.jpg",
+            "wallpapers": [
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W1.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W2.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W3.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W4.png",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W5.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W6.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W7.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W8.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W9.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W10.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W11.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W12.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W13.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W14.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W15.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W16.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W17.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W18.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W19.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W20.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W21.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W22.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W23.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W24.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W25.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W26.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W27.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W28.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W29.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W30.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W31.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W32.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W33.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W34.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W35.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W36.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W37.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W38.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W39.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W40.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W41.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W42.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W43.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W44.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W45.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W46.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W47.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W48.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W49.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W50.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W51.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W52.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W53.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W54.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W55.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W56.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W57.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W58.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W59.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W60.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W61.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W62.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W63.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W64.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W65.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W66.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W67.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W68.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W69.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W70.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W71.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W72.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W73.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W74.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W75.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W76.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W77.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W78.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W79.png",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W80.png",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W81.png",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W82.png",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W83.png",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W84.png",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W85.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W86.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/W87.jpg"
+            ],
+            "live_wallpapers": [
+                {
+                    "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L1.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L1.png",
+                    "category": "halloween"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L2.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L2.png",
+                    "category": "halloween"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L3.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L3.png",
+                    "category": "halloween"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L4.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L4.png",
+                    "category": "halloween"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L5.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L5.png",
+                    "category": "halloween"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L6.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L6.png",
+                    "category": "halloween"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L7.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L7.png",
+                    "category": "halloween"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L8.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L8.png",
+                    "category": "halloween"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L9.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L9.png",
+                    "category": "halloween"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L10.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L10.png",
+                    "category": "halloween"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L11.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L11.png",
+                    "category": "halloween"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L12.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/L12.png",
+                    "category": "halloween"
+                }
+            ],
+            "keyboards": [
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K1.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K2.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K3.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K4.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K5.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K6.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K7.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K8.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K9.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K10.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K11.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K12.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K13.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K14.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K15.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K16.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K17.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K18.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K19.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K20.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K21.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K22.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K23.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K24.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K25.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K26.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K27.jpg",
+                "https://raw.githubusercontent.com/belquassehcar/halloween-house-ideas/main/assets/K28.jpg"
+            ]
+        },
+        {
+            "id": "hello_kitty",
+            "title": "Hello Kitty & Friends",
+            "icon": "🎀",
+            "badge": "TRENDING ✨",
+            "description": "Iconic kawaii red bows, pastel strawberry cafe & adorable sweetness",
+            "colorHex": "0xFFFF5E7E",
+            "coverUrl": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/1.jpg",
+            "wallpapers": [
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/1.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/10.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/11.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/12.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/13.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/14.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/15.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/16.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/17.png",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/18.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/19.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/2.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/20.png",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/21.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/22.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/23.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/24.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/25.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/26.png",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/27.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/28.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/29.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/3.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/30.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/31.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/32.png",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/33.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/34.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/35.png",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/36.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/37.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/38.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/39.png",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/4.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/40.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/41.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/42.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/43.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/44.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/45.png",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/46.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/47.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/48.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/49.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/5.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/50.png",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/51.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/52.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/53.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/54.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/55.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/56.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/57.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/58.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/59.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/6.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/60.png",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/61.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/7.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/8.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/9.jpg"
+            ],
+            "live_wallpapers": [
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/1.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/1.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/10.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/10.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/11.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/11.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/12.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/12.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/13.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/13.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/14.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/14.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/15.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/15.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/16.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/16.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/17.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/17.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/18.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/18.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/19.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/19.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/2.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/2.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/20.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/20.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/21.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/21.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/22.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/22.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/23.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/23.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/24.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/24.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/25.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/25.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/26.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/26.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/27.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/27.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/28.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/28.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/29.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/29.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/3.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/3.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/30.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/30.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/31.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/31.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/32.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/32.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/33.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/33.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/34.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/34.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/35.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/35.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/36.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/36.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/37.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/37.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/38.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/38.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/39.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/39.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/4.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/4.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/40.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/40.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/41.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/41.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/42.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/42.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/43.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/43.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/5.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/5.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/6.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/6.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/7.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/7.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/8.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/8.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/9.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/live_wallpapers/9.png"
+                }
+            ],
+            "keyboards": [
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/1.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/2.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/3.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/4.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/5.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/6.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/7.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/8.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/9.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/10.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/11.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/12.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/13.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/14.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/15.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/16.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/17.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/18.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/19.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/20.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/21.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/22.jpg"
+            ]
+        },
+        {
+            "id": "toca_boca",
+            "title": "Toca Life World",
+            "icon": "🏡",
+            "badge": "POPULAR 💖",
+            "description": "Aesthetic Toca world characters, secret houses & cute crumpets",
+            "colorHex": "0xFFFF9F43",
+            "coverUrl": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W1.jpg",
+            "wallpapers": [
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W1.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W2.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W3.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W4.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W5.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W6.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W7.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W8.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W9.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W10.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W11.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W12.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W13.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W14.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W15.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W16.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W17.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W18.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W19.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W20.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W21.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W22.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W23.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W24.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W25.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W26.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W27.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W28.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W29.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W30.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W31.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W32.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W33.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W34.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W35.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W36.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W37.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W38.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W39.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W40.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W41.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/W42.jpg"
+            ],
+            "live_wallpapers": [
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L1.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L1.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L2.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L2.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L3.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L3.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L4.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L4.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L5.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L5.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L6.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L6.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L7.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L7.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L8.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L8.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L9.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L9.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L10.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L10.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L11.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L11.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L12.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L12.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L13.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L13.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L14.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L14.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L15.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L15.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L16.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L16.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L17.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L17.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L18.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L18.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L19.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L19.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L20.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L20.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L21.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L21.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L22.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L22.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L23.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L23.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L24.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L24.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L25.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L25.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L26.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L26.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L27.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L27.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L28.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L28.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L29.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L29.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L30.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L30.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L31.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L31.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L32.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L32.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L33.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L33.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L34.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L34.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L35.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L35.png"
+                }
+            ],
+            "keyboards": [
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K1.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K2.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K3.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K4.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K5.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K6.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K7.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K8.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K9.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K10.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K11.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K12.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K13.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K14.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K15.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K16.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K17.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K18.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K19.gif",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K20.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/K21.jpg"
+            ]
+        },
+        {
+            "id": "blue_koala",
+            "title": "Blue Koala & Stitch",
+            "icon": "💙",
+            "badge": "NEW ⭐",
+            "description": "Adorable tropical blue koala, cute extraterrestrial friend & pastel vibes",
+            "colorHex": "0xFF38B6FF",
+            "coverUrl": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/1.jpg",
+            "wallpapers": [
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/1.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/10.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/11.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/12.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/13.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/14.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/15.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/16.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/17.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/18.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/19.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/2.png",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/20.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/21.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/22.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/23.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/24.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/25.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/26.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/27.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/28.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/29.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/3.png",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/30.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/31.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/32.png",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/33.png",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/34.png",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/35.png",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/36.png",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/37.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/38.png",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/39.png",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/4.png",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/40.png",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/41.png",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/42.png",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/43.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/44.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/45.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/46.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/47.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/48.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/49.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/5.png",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/50.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/51.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/6.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/7.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/8.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/popppy/9.jpg"
+            ],
+            "live_wallpapers": [
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/10.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/10.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/11.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/11.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/2.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/2.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/3.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/3.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/4.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/4.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/5.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/5.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/6.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/6.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/7.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/7.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/8.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/8.png"
+                },
+                {
+                    "video": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/9.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/live_wallpapers/9.png"
+                }
+            ],
+            "keyboards": [
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/1.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/2.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/3.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/4.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/5.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/6.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/7.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/8.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/9.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/10.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/11.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/12.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/13.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/14.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/15.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/16.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/17.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/18.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/19.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/20.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/21.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/22.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/23.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/24.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/25.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/26.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/27.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/28.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/29.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/BluekoalaKeyboaed/main/keyboards/30.jpg"
+            ]
+        },
+        {
+            "id": "my_melody",
+            "title": "My Melody & Pastel",
+            "icon": "🌸",
+            "badge": "CUTE 💕",
+            "description": "Sweet bunny ears, soft pink clouds, dreamy pastel kawaii & floral charm",
+            "colorHex": "0xFFFF9671",
+            "coverUrl": "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/21.jpg",
+            "wallpapers": [
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/19.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/2.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/20.png",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/21.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/22.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/23.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/24.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/25.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/26.png",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/27.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/28.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/29.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/3.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/30.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/31.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/32.png",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/33.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/34.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/35.png",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/36.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/37.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/38.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/39.png",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/4.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/popppy/40.jpg"
+            ],
+            "keyboards": [
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/1.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/2.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/3.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/4.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/5.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/6.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/7.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/8.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/9.jpg",
+                "https://raw.githubusercontent.com/LegendAsus/hellokitywallpapers/main/keyboards/10.jpg"
+            ]
+        },
+        {
+            "id": "house_ideas",
+            "title": "House Ideas",
+            "icon": "🏰",
+            "badge": "VIDEOS 🎬",
+            "description": "Aesthetic villa layouts, spooky Halloween houses & room makeover designs",
+            "colorHex": "0xFF00E5C0",
+            "coverUrl": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H1.png",
+            "wallpapers": [
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H1.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H2.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H3.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H4.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H5.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H6.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H7.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H8.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H9.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H10.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H11.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H12.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H13.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H14.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/H15.png"
+            ]
+        },
+        {
+            "id": "live_wallpapers",
+            "title": "Live Wallpapers",
+            "icon": "⚡",
+            "badge": "4K LIVE",
+            "description": "Smooth moving animated live wallpapers for your home & lock screen",
+            "colorHex": "0xFFFFD13B",
+            "coverUrl": "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L1.png",
+            "wallpapers": [
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L1.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L2.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L3.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L4.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L5.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L6.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L7.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L8.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L9.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L10.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L11.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L12.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L13.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L14.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L15.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L16.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L17.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L18.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L19.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L20.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L21.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L22.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L23.png",
+                "https://raw.githubusercontent.com/LegendAsus/tocaboca-houseideas/main/uploads/L24.png"
+            ]
+        }
+    ]
 }
