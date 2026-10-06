@@ -1,0 +1,305 @@
+{
+    "wallpapers": [
+        "W1.jpg",
+        "W2.jpg",
+        "W3.jpg",
+        "W4.png",
+        "W5.jpg",
+        "W6.jpg",
+        "W7.png",
+        "W8.jpg",
+        "W9.jpg",
+        "W10.png",
+        "W11.jpg",
+        "W12.jpg",
+        "W13.png",
+        "W14.jpg",
+        "W15.jpg",
+        "W16.jpg",
+        "W17.jpg",
+        "W18.jpg",
+        "W19.jpg"
+    ],
+    "live_wallpapers": [
+        {
+            "video": "L1.mp4",
+            "thumbnail": "L1.png"
+        },
+        {
+            "video": "L2.mp4",
+            "thumbnail": "L2.png"
+        },
+        {
+            "video": "L3.mp4",
+            "thumbnail": "L3.png"
+        },
+        {
+            "video": "L4.mp4",
+            "thumbnail": "L4.png"
+        },
+        {
+            "video": "L5.mp4",
+            "thumbnail": "L5.png"
+        },
+        {
+            "video": "L6.mp4",
+            "thumbnail": "L6.png"
+        },
+        {
+            "video": "L7.mp4",
+            "thumbnail": "L7.png"
+        },
+        {
+            "video": "L8.mp4",
+            "thumbnail": "L8.png"
+        },
+        {
+            "video": "L9.mp4",
+            "thumbnail": "L9.png"
+        },
+        {
+            "video": "L10.mp4",
+            "thumbnail": "L10.png"
+        },
+        {
+            "video": "L11.mp4",
+            "thumbnail": "L11.png"
+        },
+        {
+            "video": "L12.mp4",
+            "thumbnail": "L12.png"
+        },
+        {
+            "video": "L13.mp4",
+            "thumbnail": "L13.png"
+        },
+        {
+            "video": "L14.mp4",
+            "thumbnail": "L14.png"
+        },
+        {
+            "video": "L15.mp4",
+            "thumbnail": "L15.png"
+        },
+        {
+            "video": "L16.mp4",
+            "thumbnail": "L16.png"
+        },
+        {
+            "video": "L17.mp4",
+            "thumbnail": "L17.png"
+        },
+        {
+            "video": "L18.mp4",
+            "thumbnail": "L18.png"
+        },
+        {
+            "video": "L19.mp4",
+            "thumbnail": "L19.png"
+        },
+        {
+            "video": "L20.mp4",
+            "thumbnail": "L20.png"
+        },
+        {
+            "video": "L21.mp4",
+            "thumbnail": "L21.png"
+        },
+        {
+            "video": "L22.mp4",
+            "thumbnail": "L22.png"
+        },
+        {
+            "video": "L23.mp4",
+            "thumbnail": "L23.png"
+        },
+        {
+            "video": "L24.mp4",
+            "thumbnail": "L24.png"
+        }
+    ],
+    "keyboards": [
+        "K1.jpg",
+        "K2.jpg",
+        "K3.jpg",
+        "K4.jpg",
+        "K5.jpg",
+        "K6.jpg",
+        "K7.jpg",
+        "K8.jpg",
+        "K9.jpg",
+        "K10.jpg",
+        "K11.jpg",
+        "K12.jpg",
+        "K13.jpg",
+        "K14.jpg",
+        "K15.jpg",
+        "K16.jpg",
+        "K17.jpg",
+        "K18.jpg",
+        "K19.gif",
+        "K20.jpg",
+        "K21.jpg"
+    ],
+    "zipper": [],
+    "house_ideas": [
+        {
+            "id": "house_h1",
+            "title": "Toca House Idea #1",
+            "video": "H1.mp4",
+            "thumbnail": "H1.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #1."
+        },
+        {
+            "id": "house_h2",
+            "title": "Toca House Idea #2",
+            "video": "H2.mp4",
+            "thumbnail": "H2.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #2."
+        },
+        {
+            "id": "house_h3",
+            "title": "Toca House Idea #3",
+            "video": "H3.mp4",
+            "thumbnail": "H3.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #3."
+        },
+        {
+            "id": "house_h4",
+            "title": "Toca House Idea #4",
+            "video": "H4.mp4",
+            "thumbnail": "H4.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #4."
+        },
+        {
+            "id": "house_h5",
+            "title": "Toca House Idea #5",
+            "video": "H5.mp4",
+            "thumbnail": "H5.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #5."
+        },
+        {
+            "id": "house_h6",
+            "title": "Toca House Idea #6",
+            "video": "H6.mp4",
+            "thumbnail": "H6.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #6."
+        },
+        {
+            "id": "house_h7",
+            "title": "Toca House Idea #7",
+            "video": "H7.mp4",
+            "thumbnail": "H7.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #7."
+        },
+        {
+            "id": "house_h8",
+            "title": "Toca House Idea #8",
+            "video": "H8.mp4",
+            "thumbnail": "H8.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #8."
+        },
+        {
+            "id": "house_h9",
+            "title": "Toca House Idea #9",
+            "video": "H9.mp4",
+            "thumbnail": "H9.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #9."
+        },
+        {
+            "id": "house_h10",
+            "title": "Toca House Idea #10",
+            "video": "H10.mp4",
+            "thumbnail": "H10.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #10."
+        },
+        {
+            "id": "house_h11",
+            "title": "Toca House Idea #11",
+            "video": "H11.mp4",
+            "thumbnail": "H11.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #11."
+        },
+        {
+            "id": "house_h12",
+            "title": "Toca House Idea #12",
+            "video": "H12.mp4",
+            "thumbnail": "H12.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #12."
+        },
+        {
+            "id": "house_h13",
+            "title": "Toca House Idea #13",
+            "video": "H13.mp4",
+            "thumbnail": "H13.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #13."
+        },
+        {
+            "id": "house_h14",
+            "title": "Toca House Idea #14",
+            "video": "H14.mp4",
+            "thumbnail": "H14.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #14."
+        },
+        {
+            "id": "house_h15",
+            "title": "Toca House Idea #15",
+            "video": "H15.mp4",
+            "thumbnail": "H15.png",
+            "roomType": "Aesthetic Villa",
+            "duration": "0:08",
+            "description": "Creative room decor layout for Toca House Idea #15."
+        }
+    ],
+    "widgets": {
+        "calendar": [
+            "W1.jpg",
+            "W2.jpg",
+            "W3.jpg",
+            "W4.png",
+            "W5.jpg"
+        ],
+        "clock": [
+            "W6.jpg",
+            "W7.png",
+            "W8.jpg",
+            "W9.jpg",
+            "W10.png"
+        ],
+        "digital_clock": [
+            "W11.jpg",
+            "W12.jpg",
+            "W13.png",
+            "W14.jpg",
+            "W15.jpg"
+        ]
+    }
+}
